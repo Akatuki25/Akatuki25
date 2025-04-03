@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there！
+# はろーHello
 Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 [ポートフォリオサイト鋭意製作中...]()　
@@ -10,45 +10,57 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 <br/>
 
 # My Skill
+
 <table>
 <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>Other</th>
-    <th>Hosting</th>
-    <th>Languages</th>
+    <th>カテゴリ</th>
+    <th>スキル</th>
 </tr>
 <tr>
+    <td>Frontend</td>
     <td>
-        <img src="https://skillicons.dev/icons?i=react" alt="React">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40">
     </td>
+</tr>
+<tr>
+    <td>Backend</td>
     <td>
-        <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI">
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40">
     </td>
+</tr>
+<tr>
+    <td>Database</td>
     <td>
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40">
     </td>
+</tr>
+<tr>
+    <td>Other</td>
     <td>
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40">
     </td>
+</tr>
+<tr>
+    <td>Hosting</td>
     <td>
-        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40">
     </td>
+</tr>
+<tr>
+    <td>Languages</td>
     <td>
-        <img src="https://skillicons.dev/icons?i=python" alt="Python">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40">
     </td>
 </tr>
 </table>
-
 
 
 <br/>
