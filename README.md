@@ -100,8 +100,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 ### CyberAgent賞
 
-<img width="300px" src="https://pbs.twimg.com/media/GffRTDUaMAA3vuU?format=jpg&name=large">
-
 ### [Github](https://github.com/SketchShifter)
 ### [Site](https://www.serendicode-sub.click/)
 
