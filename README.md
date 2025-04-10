@@ -41,7 +41,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>担当:</strong> 全部</li>
         <li><strong>詳細:</strong> イラスト練習者が自分のイラストを客観的に評価し、修正案を提示してくれるアプリ</li>
         <li><strong>今どんな感じ？:</strong> 制作は一時停止中。時間があれば再開予定。</li>
-        <li>[関連記事](https://qiita.com/Akatuki25/items/731b8fc198180d29613b)</li>
+        <li><a href="https://qiita.com/Akatuki25/items/731b8fc198180d29613b">関連記事</a></li>
       </ul>
     </td>
   </tr>
@@ -63,11 +63,9 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>担当:</strong> ほぼ全部</li>
         <li><strong>詳細:</strong> 視覚障がい者が安心して外出できるよう、道案内を行うアプリ</li>
         <li><strong>今どんな感じ？:</strong> リリースに向け鋭意製作中</li>
-        <li>
-          [関連記事その1](https://techgala.jp/hackathon/)  
-          [関連記事その2](https://www.nagoyatv.com/news/?id=028678)  
-          [テレビ出演](https://www.youtube.com/watch?v=Z5E75A3GB-U)
-        </li>
+        <li><a href="https://techgala.jp/hackathon">関連記事その1</a></li>
+        <li><a href="https://www.nagoyatv.com/news/?id=028678">関連記事その2</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Z5E75A3GB-U">テレビ出演</a></li>
       </ul>
     </td>
   </tr>
@@ -79,7 +77,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 <table>
   <tr>
     <td width="40%" valign="top">
-      <img src="https://via.placeholder.com/300x200" alt="作品画像" style="width:100%;"><br>
+      <img src="https://github.com/user-attachments/assets/e349b7b4-394d-4a61-905b-9f3ee6a78c59" alt="作品画像" style="width:100%;"><br>
       <h3>SysHack</h3>
       <p><strong>CyberAgent賞</strong></p>
     </td>
@@ -89,7 +87,8 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>担当:</strong> トランスパイラ</li>
         <li><strong>詳細:</strong> ProcessingコードをWeb上で表示するためのトランスパイラとそのプラットフォーム</li>
         <li><strong>今どんな感じ？:</strong> トランスパイラをオープンソースとして公開予定</li>
-        <li>[Github](https://github.com/SketchShifter) | [Site](https://www.serendicode-sub.click/)</li>
+        <li><a href="https://github.com/SketchShifter">Github</a></li>
+        <li><a href="https://www.serendicode-sub.click/">Site</a></li>
       </ul>
     </td>
   </tr>
@@ -111,7 +110,8 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>担当:</strong> UI以外の全工程</li>
         <li><strong>詳細:</strong> 初心者のプロダクト開発を支援するため、タスク作成・管理、分割＆コーディング支援を行うツール</li>
         <li><strong>今どんな感じ？:</strong> OSS/Webアプリとしてアップデート予定</li>
-        <li>[Github](https://github.com/vyuma/hackson_support_agent/tree/main) | [Site](https://hackson-support-agent.vercel.app/)</li>
+        <li><a href="https://github.com/vyuma/hackson_support_agent/tree/main">Github</a></li>
+        <li><a href="https://hackson-support-agent.vercel.app/">Site</a></li>
       </ul>
     </td>
   </tr>
