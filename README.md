@@ -78,8 +78,8 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
   <tr>
     <td width="40%" valign="top">
       <img src="https://github.com/user-attachments/assets/e349b7b4-394d-4a61-905b-9f3ee6a78c59" alt="作品画像" style="width:100%;"><br>
-      <h3>SysHack</h3>
-      <p><strong>CyberAgent賞</strong></p>
+      <h3>SysHack,技育博2025vol2</h3>
+      <p><strong>CyberAgent賞, DeNA賞</strong></p>
     </td>
     <td width="60%" valign="top">
       <ul>
