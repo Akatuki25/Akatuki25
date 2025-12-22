@@ -1,5 +1,3 @@
-<img width="1752" height="1285" alt="image" src="https://github.com/user-attachments/assets/b68bf10f-b0b3-46fa-ab38-c33d6bd4a453" /><div align="center">
-
 # Hi! I'm Akatuki25!
 Second-year Bachelor's student, at Nagoya Institute of Technology.  
 
