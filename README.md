@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1752" height="1285" alt="image" src="https://github.com/user-attachments/assets/b68bf10f-b0b3-46fa-ab38-c33d6bd4a453" /><div align="center">
 
 # Hi! I'm Akatuki25!
 Second-year Bachelor's student, at Nagoya Institute of Technology.  
@@ -20,6 +20,31 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 | **機械学習**          | <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"> |
 | **競技プログラミング** | <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"> |
 | **Android**           | <img src="https://skillicons.dev/icons?i=android" alt="Android" width="40" height="40"> <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"> |
+
+---
+
+# Portfolio(Program)
+
+<!-- tomori -->
+<table>
+  <tr>
+    <!-- 左カラム: 画像と作品タイトル -->
+    <td width="40%" valign="top">
+      <img src="https://github.com/user-attachments/assets/7a430b16-7a92-460b-a92a-5c74f0341f6a"  alt="image" style="width:100%;" />
+      <h3>2025年度未踏アドバンスト</h3>
+    </td>
+    <!-- 右カラム: 箇条書き情報 -->
+    <td width="60%" valign="top">
+      <ul>
+        <li><strong>作品名:</strong> tomori</li>
+        <li><strong>担当:</strong> 内部LLMエージェント部分, Web front/backend, Android appなど</li>
+        <li><strong>詳細:</strong> TomoriはAIと遠隔サポートによる認知症特化の見守り支援を行うサービスです。</li>
+        <li><strong>今どんな感じ？:</strong> 未踏期間真っ只中なので、開発してます。</li>
+        <li><a href="https://www.ipa.go.jp/jinzai/mitou/advanced/2025first/gaiyou-is-1.html">関連記事</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,7 +126,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
   <tr>
     <td width="40%" valign="top">
       <img src="https://pbs.twimg.com/media/GmuB41sboAAt7B_?format=jpg&name=medium" alt="作品画像" style="width:100%;"><br>
-      <h3>100 Program 7期, 技育博2025vol1</h3>
+      <h3>100 Program 7期, 技育博2025vol1, 技育展決勝参加</h3>
       <p><strong>優秀AI賞, ｳｨﾝｸﾞｱｰｸ1st賞</strong></p>
     </td>
     <td width="60%" valign="top">
@@ -109,9 +134,9 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>作品名:</strong> ハッカソン支援エージェント</li>
         <li><strong>担当:</strong> UI以外の全工程</li>
         <li><strong>詳細:</strong> 初心者のプロダクト開発を支援するため、タスク作成・管理、分割＆コーディング支援を行うツール</li>
-        <li><strong>今どんな感じ？:</strong> OSS/Webアプリとしてアップデート予定</li>
-        <li><a href="https://github.com/vyuma/hackson_support_agent/tree/main">Github</a></li>
-        <li><a href="https://hackson-support-agent.vercel.app/">Site</a></li>
+        <li><strong>今どんな感じ？:</strong> Webサービスとしてアップデート予定</li>
+        <li><a href="https://github.com/Akatuki25/hackathon-support-agent">Github</a></li>
+        <li><a href="https://hackathon-support-agent-prod.vercel.app/">Site</a></li>
       </ul>
     </td>
   </tr>
