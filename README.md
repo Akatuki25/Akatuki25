@@ -37,7 +37,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>作品名:</strong> tomori</li>
         <li><strong>担当:</strong> 内部LLMエージェント部分, Web front/backend, Android appなど</li>
         <li><strong>詳細:</strong> TomoriはAIと遠隔サポートによる認知症特化の見守り支援を行うサービスです。</li>
-        <li><strong>今どんな感じ？:</strong> 未踏期間真っ只中なので、開発してます。</li>
+        <li><strong>今どんな感じ？:</strong> 現在進行形で開発中！！！！</li>
         <li><a href="https://www.ipa.go.jp/jinzai/mitou/advanced/2025first/gaiyou-is-1.html">関連記事</a></li>
       </ul>
     </td>
@@ -63,37 +63,12 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>作品名:</strong> copillust</li>
         <li><strong>担当:</strong> 全部</li>
         <li><strong>詳細:</strong> イラスト練習者が自分のイラストを客観的に評価し、修正案を提示してくれるアプリ</li>
-        <li><strong>今どんな感じ？:</strong> 制作は一時停止中。時間があれば再開予定。</li>
+        <li><strong>今どんな感じ？:</strong> イラストの姿勢推定モデルを暇な時にちまちま構築してます。</li>
         <li><a href="https://qiita.com/Akatuki25/items/731b8fc198180d29613b">関連記事</a></li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-<!-- よりみちガイド -->
-<table>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="https://www.nagoyatv.com/nbnnews_image/dcmaxs02867801.jpg" alt="作品画像" style="width:100%;"><br>
-      <h3>HackGALA</h3>
-      <p><strong>最優秀賞</strong></p>
-    </td>
-    <td width="60%" valign="top">
-      <ul>
-        <li><strong>作品名:</strong> よりみちガイド</li>
-        <li><strong>担当:</strong> ほぼ全部</li>
-        <li><strong>詳細:</strong> 視覚障がい者が安心して外出できるよう、道案内を行うアプリ</li>
-        <li><strong>今どんな感じ？:</strong> リリースに向け鋭意製作中</li>
-        <li><a href="https://techgala.jp/hackathon">関連記事その1</a></li>
-        <li><a href="https://www.nagoyatv.com/news/?id=028678">関連記事その2</a></li>
-        <li><a href="https://www.youtube.com/watch?v=Z5E75A3GB-U">テレビ出演</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <!-- SketchShifter.js/Processing Sketch Book -->
@@ -111,7 +86,6 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>詳細:</strong> ProcessingコードをWeb上で表示するためのトランスパイラとそのプラットフォーム</li>
         <li><strong>今どんな感じ？:</strong> トランスパイラをオープンソースとして公開予定</li>
         <li><a href="https://github.com/SketchShifter">Github</a></li>
-        <li><a href="https://www.serendicode-sub.click/">Site</a></li>
       </ul>
     </td>
   </tr>
@@ -124,7 +98,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
   <tr>
     <td width="40%" valign="top">
       <img src="https://pbs.twimg.com/media/GmuB41sboAAt7B_?format=jpg&name=medium" alt="作品画像" style="width:100%;"><br>
-      <h3>100 Program 7期, 技育博2025vol1, 技育展決勝参加</h3>
+      <h3>100 Program 7期, 技育博2025vol1, 技育CAMPにて導入！</h3>
       <p><strong>優秀AI賞, ｳｨﾝｸﾞｱｰｸ1st賞</strong></p>
     </td>
     <td width="60%" valign="top">
@@ -132,7 +106,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>作品名:</strong> ハッカソン支援エージェント</li>
         <li><strong>担当:</strong> UI以外の全工程</li>
         <li><strong>詳細:</strong> 初心者のプロダクト開発を支援するため、タスク作成・管理、分割＆コーディング支援を行うツール</li>
-        <li><strong>今どんな感じ？:</strong> Webサービスとしてアップデート予定</li>
+        <li><strong>今どんな感じ？:</strong> 技育CAMPにて提供中です！個人用にも公開したい。</li>
         <li><a href="https://github.com/Akatuki25/hackathon-support-agent">Github</a></li>
         <li><a href="https://hackathon-support-agent-prod.vercel.app/">Site</a></li>
       </ul>
@@ -144,15 +118,19 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akatuki25&theme=github_dark&hide_border=true&layout=compact&card_width=320"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Akatuki25&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&show_icons=true"
+  />
+</p>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akatuki25&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Akatuki25&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github">
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Akatuki25&rank=-C,-B&theme=discord&no-bg=true&margin-w=15">
-  
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Akatuki25&theme=discord&no-bg=true&no-frame=true&margin-w=15&column=4&rank=-C,-B"
+  />
+</p>
