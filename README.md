@@ -64,6 +64,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>担当:</strong> 全部</li>
         <li><strong>詳細:</strong> イラスト練習者が自分のイラストを客観的に評価し、修正案を提示してくれるアプリ</li>
         <li><strong>今どんな感じ？:</strong> イラストの姿勢推定モデルを暇な時にちまちま構築してます。</li>
+        <li><a href="https://github.com/Akatuki25/copillust">Github</a></li>
         <li><a href="https://qiita.com/Akatuki25/items/731b8fc198180d29613b">関連記事</a></li>
       </ul>
     </td>
@@ -98,8 +99,8 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
   <tr>
     <td width="40%" valign="top">
       <img src="https://pbs.twimg.com/media/GmuB41sboAAt7B_?format=jpg&name=medium" alt="作品画像" style="width:100%;"><br>
-      <h3>100 Program 7期, 技育博2025vol1, 技育CAMPにて導入！</h3>
-      <p><strong>優秀AI賞, ｳｨﾝｸﾞｱｰｸ1st賞</strong></p>
+      <h3>100 Program 7期, 技育博2025vol1, 技育展決勝</h3>
+      <p><strong>優秀AI賞, ｳｨﾝｸﾞｱｰｸ1st賞, 技育CAMPにて導入！</strong></p>
     </td>
     <td width="60%" valign="top">
       <ul>
@@ -109,6 +110,28 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
         <li><strong>今どんな感じ？:</strong> 技育CAMPにて提供中です！個人用にも公開したい。</li>
         <li><a href="https://github.com/Akatuki25/hackathon-support-agent">Github</a></li>
         <li><a href="https://hackathon-support-agent-prod.vercel.app/">Site</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- AI VTuber 鶴舞こあら -->
+<table>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="https://pbs.twimg.com/media/Gsfnnwlb0AAxkAd?format=jpg" alt="作品画像" style="width:100%;"><br>
+      <h3>Hack-1</h3>
+    </td>
+    <td width="60%" valign="top">
+      <ul>
+        <li><strong>作品名:</strong> 鶴舞こあら</li>
+        <li><strong>担当:</strong> 音声対話AI部分全部</li>
+        <li><strong>詳細:</strong> 完全自律型のAI VTuberを作りたい！</li>
+        <li><strong>今どんな感じ？:</strong> 裏では開発してますが、表に出るのはまだ先かもしれない...</li>
+        <li><a href="https://github.com/Tsuruma-CoALA-Project">Github</a></li>
+        <li><a href="https://www.youtube.com/@tsurumacoala">Site</a></li>
       </ul>
     </td>
   </tr>
