@@ -1,5 +1,5 @@
 # Hi! I'm Akatuki25!
-Second-year Bachelor's student, at Nagoya Institute of Technology.  
+third-year Bachelor's student, at Nagoya Institute of Technology.  
 
 [ポートフォリオサイト鋭意製作中…](#)
 
